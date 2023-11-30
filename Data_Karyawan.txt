@@ -1,0 +1,23 @@
+
+Tanggal 2023-06-08
+========================================
+1. Nama : n
+2. Umur : nn
+3. No. Telp : n
+4. Gaji : n
+5. Alamat : n
+6. Shift : n
+7. Kategori : null
+8. Start Kerja : n
+9. Start Finish : n
+
+Tanggal 2023-06-08
+========================================
+1. Nama : f
+2. Umur : f
+3. No. Telp : f
+4. Gaji : f
+5. Alamat : f
+6. Shift : f
+7. Kategori : null
+8. Jenis Perawatan : Potong bulu

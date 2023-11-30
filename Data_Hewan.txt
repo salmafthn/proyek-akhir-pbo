@@ -1,0 +1,10 @@
+
+Tanggal 2023-06-08
+========================================
+1. Nama : asd
+2. Kategori : Anjing
+3. Breed Hewan : bj
+4. Owner Hewan : j
+5. Customer ID : b
+6. Umur : bjb
+8. Jenis Perawatan : Suntik Vaksin (Rp. 100.000)
